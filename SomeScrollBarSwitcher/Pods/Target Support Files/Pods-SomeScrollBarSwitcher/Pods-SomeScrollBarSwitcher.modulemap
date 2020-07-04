@@ -1,0 +1,6 @@
+module Pods_SomeScrollBarSwitcher {
+  umbrella header "Pods-SomeScrollBarSwitcher-umbrella.h"
+
+  export *
+  module * { export * }
+}

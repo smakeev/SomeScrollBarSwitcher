@@ -1,0 +1,6 @@
+module Scroller {
+  umbrella header "Scroller-umbrella.h"
+
+  export *
+  module * { export * }
+}

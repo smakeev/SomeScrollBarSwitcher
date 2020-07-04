@@ -1,0 +1,16 @@
+PODS:
+  - Scroller (1.0.0)
+
+DEPENDENCIES:
+  - Scroller
+
+SPEC REPOS:
+  trunk:
+    - Scroller
+
+SPEC CHECKSUMS:
+  Scroller: 60f316097393b8dfaaac4b0daed990d599eb2954
+
+PODFILE CHECKSUM: fbb320f796cddbfee85e322ee4692580370628e9
+
+COCOAPODS: 1.9.1

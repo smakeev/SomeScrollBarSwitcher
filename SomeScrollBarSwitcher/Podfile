@@ -1,0 +1,4 @@
+target 'SomeScrollBarSwitcher'
+
+pod "Scroller"
+
